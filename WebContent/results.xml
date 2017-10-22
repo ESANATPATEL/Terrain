@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<productCount>10</productCount>
+	<products>
+		<productId>SB063c48a7bf814c0badde9a96f92ae73f</productId>
+		<productDisplayName>Capital OneÂ® VentureÂ® Rewards Credit Card</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SB063c48a7bf814c0badde9a96f92ae73f&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fventure</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>Venture</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-venture-generic-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>Early Spend Bonus</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Excellent</categoryTags>
+		<categoryTags>Good</categoryTags>
+		<categoryTags>Hotel Rewards</categoryTags>
+		<categoryTags>Low Interest</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rewards (travel rewards,airline rewards)</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<categoryTags>Visa</categoryTags>
+		<marketingCopy>Enjoy a one-time bonus of 40,000 miles once you spend $3,000 on purchases within 3 months from account opening, equal to $400 in travel</marketingCopy>
+		<marketingCopy>Earn unlimited 2X miles per dollar on every purchase, every day</marketingCopy>
+		<marketingCopy>Fly any airline, stay at any hotel, anytime</marketingCopy>
+		<marketingCopy>Travel when you want with no blackout dates</marketingCopy>
+		<marketingCopy>Miles won't expire for the life of the account and there's no limit to how many you can earn</marketingCopy>
+		<marketingCopy>No foreign transaction fees</marketingCopy>
+		<marketingCopy>$0 intro annual fee for the first year; $59 after that</marketingCopy>
+		<marketingCopy>Get a metal Venture Card when you apply today</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - You're covered by $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel upgrades and savings - Receive complimentary upgrades and special savings at hotels, resorts and spas with your Visa SignatureÂ® card</additionalMarketingCopy>
+		<additionalMarketingCopy>Complimentary concierge service - Enjoy assistance 24 hours a day, from home and when you travel, with Visa SignatureÂ® Concierge</additionalMarketingCopy>
+		<additionalMarketingCopy>Shopping discounts - Take advantage of special discounts at top retailers and online merchants with your Visa SignatureÂ® card</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Emergency Card Services - If your credit card is lost or stolen, you can get an emergency card replacement and a cash advance</additionalMarketingCopy>
+		<additionalMarketingCopy>Warranty Manager/Extended Protection - Provides you with valuable features to help manage, use and even extend warranties of items purchased with your card</additionalMarketingCopy>
+		<additionalMarketingCopy>Roadside Assistance - Take advantage of 24 hour toll-free dispatch to help with services like towing, fuel delivery and more</additionalMarketingCopy>
+		<additionalMarketingCopy>Lost Luggage Replacement - You may be eligible for reimbursement due to theft or misdirection</additionalMarketingCopy>
+		<additionalMarketingCopy>Purchase Security - Eligible purchases are replaced, repaired or reimbursed for the first 90 days</additionalMarketingCopy>
+		<processingNetwork>VisaÂ®</processingNetwork>
+		<creditRating>Excellent</creditRating>
+		<creditRating>Good</creditRating>
+		<activeFrom>2017-08-15T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>2</value>
+				<type>Miles</type>
+				<terms>per dollar on every purchase, every day</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue>40000</rewardsBonusValue>
+				<rewardsBonusType>Miles</rewardsBonusType>
+				<rewardsBonusTerms>once you spend $3,000 on purchases within 3 months from account opening</rewardsBonusTerms>
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>13.99% - 23.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>13.99% - 23.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>N/A</introPurchaseAprDescription>
+			<introPurchaseAprValue />
+			<introPurchaseAprType />
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>N/A</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue />
+			<introPurchaseAprPeriodType />
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>13.99% - 23.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>13.99% - 23.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0 intro for first year; $59 after that</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>23.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>23.99%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SB15d0818b3b3548779f0d769310997791</productId>
+		<productDisplayName>SonyÂ® Card from Capital OneÂ®</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SB15d0818b3b3548779f0d769310997791&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.sonyrewards.com%2Fen%2Fgateway%2F%3Fofferlink%3D0715C1Affiliate5K%26campaigncode%3DVIBBUB56</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>SonyCard</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-sony-emv-v-flat-500x315.png</url>
+		</images>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>Early Spend Bonus</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Excellent</categoryTags>
+		<categoryTags>Fair</categoryTags>
+		<categoryTags>Good</categoryTags>
+		<categoryTags>Low Interest</categoryTags>
+		<categoryTags>Low Intro Rate</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rewards (entertainment,retail/brand name,points)</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<categoryTags>Visa</categoryTags>
+		<categoryTags>Zero Percent</categoryTags>
+		<marketingCopy>Earn 5,000 bonus points after your first purchase within 90 days from account opening</marketingCopy>
+		<marketingCopy>5 points per $1 spent on SonyÂ® purchases at authorized retailers, with purchase confirmation</marketingCopy>
+		<marketingCopy>3 points per $1 spent on movie theaters, movie rentals, music downloads and digital streaming and subscription services</marketingCopy>
+		<marketingCopy>1 point per $1 spent on all other purchases</marketingCopy>
+		<marketingCopy>Redeem for Sony products, movies, music & more</marketingCopy>
+		<marketingCopy>0% intro APR on purchases until February 2018, 14.99% - 24.99% variable APR after that</marketingCopy>
+		<marketingCopy>No annual fee</marketingCopy>
+		<additionalMarketingCopy>Travel Accident Insurance</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel and Emergency Assistance Services</additionalMarketingCopy>
+		<additionalMarketingCopy>Auto Rental Collision Damage Waiver</additionalMarketingCopy>
+		<additionalMarketingCopy>Warranty Manager Service</additionalMarketingCopy>
+		<additionalMarketingCopy>$0 Fraud Liability if your card is lost or stolen</additionalMarketingCopy>
+		<processingNetwork>VisaÂ®</processingNetwork>
+		<creditRating>Excellent</creditRating>
+		<activeFrom>2017-07-19T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>5</value>
+				<type>Points</type>
+				<terms>per $1 spent on SonyÂ® purchases at authorized retailers, with purchase confirmation</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>2</tier>
+				<value>3</value>
+				<type>Points</type>
+				<terms>per $1 spent on movie theaters, movie rentals, music downloads and digital streaming and subscription services</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>3</tier>
+				<value>1</value>
+				<type>Point</type>
+				<terms>per $1 spent on all other purchases</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue>5000</rewardsBonusValue>
+				<rewardsBonusType>Points</rewardsBonusType>
+				<rewardsBonusTerms>after your first purchase within 90 days from account opening</rewardsBonusTerms>
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>14.99% - 24.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>14.99% - 24.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>0% intro on purchases</introPurchaseAprDescription>
+			<introPurchaseAprValue>0%</introPurchaseAprValue>
+			<introPurchaseAprType>intro on purchases</introPurchaseAprType>
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>until February 2018</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue>2018</introPurchaseAprPeriodValue>
+			<introPurchaseAprPeriodType>until February</introPurchaseAprPeriodType>
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>14.99% - 24.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>14.99% - 24.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>$0 Fraud Liability if your card is lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>Greater of 3% of the advance amount or $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>23.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>23.99%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SB2dd21f6823b44777b085cec8f104b93f</productId>
+		<productDisplayName>Capital OneÂ® VentureOneÂ® Rewards Credit Card</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SB2dd21f6823b44777b085cec8f104b93f&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fventureone</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>VentureOne</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-ventureone-generic-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>Early Spend Bonus</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Excellent</categoryTags>
+		<categoryTags>Good</categoryTags>
+		<categoryTags>Hotel Rewards</categoryTags>
+		<categoryTags>Low Interest</categoryTags>
+		<categoryTags>Low Intro Rate</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rewards (travel rewards,airlines)</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<categoryTags>Visa</categoryTags>
+		<categoryTags>Zero Percent</categoryTags>
+		<marketingCopy>Enjoy a one-time bonus of 20,000 miles once you spend $1,000 on purchases within 3 months from account opening, equal to $200 in travel</marketingCopy>
+		<marketingCopy>Earn unlimited 1.25 miles per dollar on every purchase, every day and pay no annual fee</marketingCopy>
+		<marketingCopy>Fly any airline, stay at any hotel, anytime</marketingCopy>
+		<marketingCopy>Enjoy a low intro APR on purchases for 12 months; 12.99%-22.99% variable APR after that</marketingCopy>
+		<marketingCopy>Travel when you want with no blackout dates</marketingCopy>
+		<marketingCopy>No foreign transaction fees</marketingCopy>
+		<marketingCopy>Miles won't expire for the life of the account and there's no limit to how many you can earn</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Warranty Manager/Extended Protection - Provides you with valuable features to help manage, use and even extend warranties of items purchased with your card</additionalMarketingCopy>
+		<processingNetwork>VisaÂ®</processingNetwork>
+		<creditRating>Excellent</creditRating>
+		<creditRating>Good</creditRating>
+		<activeFrom>2017-08-15T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>1.25</value>
+				<type>Miles</type>
+				<terms>per dollar on every purchase, every day</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue>20000</rewardsBonusValue>
+				<rewardsBonusType>Miles</rewardsBonusType>
+				<rewardsBonusTerms>once you spend $1,000 on purchases within 3 months from account opening</rewardsBonusTerms>
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>12.99% - 22.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>12.99% - 22.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>0% intro on purchases</introPurchaseAprDescription>
+			<introPurchaseAprValue>0%</introPurchaseAprValue>
+			<introPurchaseAprType>intro on purchases</introPurchaseAprType>
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>for 12 months</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue>12</introPurchaseAprPeriodValue>
+			<introPurchaseAprPeriodType>months</introPurchaseAprPeriodType>
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>12.99% - 22.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>12.99% - 22.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>23.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>23.99%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SB3020f9d90ccc44c8ade682c679e02934</productId>
+		<productDisplayName>JourneyÂ® Student Rewards from Capital OneÂ®</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SB3020f9d90ccc44c8ade682c679e02934&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fjourney-student</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>Journey</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-journey-emv-visa-flat-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Average</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Fair Credit</categoryTags>
+		<categoryTags>Gas</categoryTags>
+		<categoryTags>Limited/No History=only when Limited is mentioned</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rewards-Cash Back</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<categoryTags>Student</categoryTags>
+		<categoryTags>Visa</categoryTags>
+		<marketingCopy>Earn 1% cash back on all your purchases. Pay on time to boost your cash back to a total of 1.25% for that month</marketingCopy>
+		<marketingCopy>There's no limit to the amount of cash back you can earn, and rewards won't expire for the life of the account</marketingCopy>
+		<marketingCopy>Get access to a higher credit line after making your first 5 monthly payments on time</marketingCopy>
+		<marketingCopy>Pay no annual or foreign transaction fees</marketingCopy>
+		<marketingCopy>Fraud coverage if your card is lost or stolen</marketingCopy>
+		<marketingCopy>Pick the monthly due date that works best for you</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - You're covered by $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Emergency Card Services - If your credit card is lost or stolen, you can get an emergency card replacement and a cash advance</additionalMarketingCopy>
+		<additionalMarketingCopy>Warranty Manager/Extended Protection - Provides you with valuable features to help manage, use and even extend warranties of items purchased with your card</additionalMarketingCopy>
+		<additionalMarketingCopy>Auto Rental Insurance - Use your card to rent an eligible vehicle and you're covered for collision, damage and loss</additionalMarketingCopy>
+		<processingNetwork>VisaÂ®</processingNetwork>
+		<creditRating>Average</creditRating>
+		<creditRating>Fair</creditRating>
+		<creditRating>Limited</creditRating>
+		<activeFrom>2017-07-19T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>1</value>
+				<type>% Cash Back</type>
+				<terms>on all purchases</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>2</tier>
+				<value>0.25</value>
+				<type>% Cash Back</type>
+				<terms>bonus on the cash back you earn each month you pay on time</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue />
+				<rewardsBonusType>Cash Back</rewardsBonusType>
+				<rewardsBonusTerms />
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>24.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>24.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>N/A</introPurchaseAprDescription>
+			<introPurchaseAprValue />
+			<introPurchaseAprType />
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>N/A</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue />
+			<introPurchaseAprPeriodType />
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>24.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>24.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>24.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>24.49%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SB5849ffc3b42c4853bc808ba729adf2b8</productId>
+		<productDisplayName>PlayStationÂ® Card from Capital OneÂ®</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SB5849ffc3b42c4853bc808ba729adf2b8&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.sonyrewards.com%2Fen%2Fgateway%2F%3Fofferlink%3Dco1affpsc5kDec13%26campaigncode%3DVIBBNVNL</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>PlaystationCard</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>504</height>
+			<width>800</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-playstation-visa-500x315.png</url>
+		</images>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>Early Spend Bonus</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Excellent</categoryTags>
+		<categoryTags>Fair</categoryTags>
+		<categoryTags>Good</categoryTags>
+		<categoryTags>Low Interest</categoryTags>
+		<categoryTags>Low Intro Rate</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rewards (entertainment,restaurants,retail/brand name,points)</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<categoryTags>Visa</categoryTags>
+		<categoryTags>Zero Percent</categoryTags>
+		<marketingCopy>Earn 5,000 bonus points after your first purchase within 90 days from account opening</marketingCopy>
+		<marketingCopy>10 points per $1 spent on all PlayStationÂ® Store purchases</marketingCopy>
+		<marketingCopy>3 points per $1 spent on PlayStationÂ® and SonyÂ® purchases at authorized retailers, with purchase confirmation</marketingCopy>
+		<marketingCopy>3 points per $1 spent on fast food restaurants, movie theatres & your mobile phone bill</marketingCopy>
+		<marketingCopy>1 point per $1 spent on all other purchases</marketingCopy>
+		<marketingCopy>Redeem for Sony products, movies, music & more</marketingCopy>
+		<marketingCopy>0% intro APR on purchases until February 2018, 14.99% - 24.99% variable APR after that</marketingCopy>
+		<marketingCopy>No annual fee</marketingCopy>
+		<additionalMarketingCopy>Travel Accident Insurance</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel and Emergency Assistance Services</additionalMarketingCopy>
+		<additionalMarketingCopy>Auto Rental Collision Damage Waiver</additionalMarketingCopy>
+		<additionalMarketingCopy>Warranty Manager Service</additionalMarketingCopy>
+		<additionalMarketingCopy>$0 Fraud Liability if your card is lost or stolen</additionalMarketingCopy>
+		<processingNetwork>VisaÂ®</processingNetwork>
+		<creditRating>Good</creditRating>
+		<activeFrom>2017-07-19T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>10</value>
+				<type>Points</type>
+				<terms>per $1 spent on all PlayStationÂ® Store purchases</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>2</tier>
+				<value>3</value>
+				<type>Points</type>
+				<terms>per $1 spent on PlayStationÂ® and SonyÂ® purchases at authorized retailers, with purchase confirmation</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>3</tier>
+				<value>3</value>
+				<type>Points</type>
+				<terms>per $1 spent on fast food restaurants, movie theatres & your mobile phone bill </terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>4</tier>
+				<value>1</value>
+				<type>Point</type>
+				<terms>per $1 spent on all other purchases</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue>5000</rewardsBonusValue>
+				<rewardsBonusType>Points</rewardsBonusType>
+				<rewardsBonusTerms>after your first purchase within 90 days from account opening</rewardsBonusTerms>
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>14.99% - 24.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>14.99% - 24.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>0% intro on purchases</introPurchaseAprDescription>
+			<introPurchaseAprValue>0%</introPurchaseAprValue>
+			<introPurchaseAprType>intro on purchases</introPurchaseAprType>
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>until February 2018</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue>2018</introPurchaseAprPeriodValue>
+			<introPurchaseAprPeriodType>until February</introPurchaseAprPeriodType>
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>14.99% - 24.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>14.99% - 24.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>$0 Fraud Liability if your card is lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>Greater of 3% of the advance amount or $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>23.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>23.99%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SB93170ab1899b4054a5abb9759c468bac</productId>
+		<productDisplayName>Capital OneÂ® QuicksilverÂ® Cash Rewards Credit Card</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SB93170ab1899b4054a5abb9759c468bac&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fquicksilver</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>Quicksilver</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-quicksilver-generic-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Balance Transfer</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>Early Spend Bonus</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Excellent</categoryTags>
+		<categoryTags>Gas</categoryTags>
+		<categoryTags>Good</categoryTags>
+		<categoryTags>Low Interest</categoryTags>
+		<categoryTags>Low Intro Rate</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Points Rewards</categoryTags>
+		<categoryTags>Rewards-Cash</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<categoryTags>Visa</categoryTags>
+		<categoryTags>Zero Percent</categoryTags>
+		<marketingCopy>One-time $150 cash bonus after you spend $500 on purchases within 3 months from account opening</marketingCopy>
+		<marketingCopy>Earn unlimited 1.5% cash back on every purchase, every day</marketingCopy>
+		<marketingCopy>Use your Quicksilver card and get 50% back as a statement credit on your monthly Spotify Premium subscription, now through April 2018</marketingCopy>
+		<marketingCopy>No rotating categories or sign-ups needed to earn cash rewards; plus, cash back won't expire for the life of the account and there's no limit to how much you can earn</marketingCopy>
+		<marketingCopy>0% intro APR on purchases for 9 months; 13.99%-23.99% variable APR after that</marketingCopy>
+		<marketingCopy>Balance transfers also have a 0% intro APR for 9 months; 13.99%-23.99% variable APR after that; a 3% fee applies to each balance transferred</marketingCopy>
+		<marketingCopy>Pay no annual fee or foreign transaction fees</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Warranty Manager/Extended Protection - Provides you with valuable features to help manage, use and even extend warranties of items purchased with your card</additionalMarketingCopy>
+		<processingNetwork>VisaÂ®</processingNetwork>
+		<creditRating>Excellent</creditRating>
+		<creditRating>Good</creditRating>
+		<activeFrom>2017-08-15T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>1.5</value>
+				<type>% Cash Back</type>
+				<terms>on every purchase, every day</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue>150</rewardsBonusValue>
+				<rewardsBonusType>Cash Back</rewardsBonusType>
+				<rewardsBonusTerms>after you spend $500 on purchases within 3 months from account opening</rewardsBonusTerms>
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>3%</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>3</balanceTransferFeeValue>
+			<balanceTransferFeeType>%</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>0% intro on balance transfers</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue>0%</introBalanceTransferAprValue>
+			<introBalanceTransferAprType>intro on balance transfers</introBalanceTransferAprType>
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>for 9 months</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue>9</introBalanceTransferAprPeriodValue>
+			<introBalanceTransferAprPeriodType>months</introBalanceTransferAprPeriodType>
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>13.99% - 23.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>13.99% - 23.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>0% intro on purchases</introPurchaseAprDescription>
+			<introPurchaseAprValue>0%</introPurchaseAprValue>
+			<introPurchaseAprType>intro on purchases</introPurchaseAprType>
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>for 9 months</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue>9</introPurchaseAprPeriodValue>
+			<introPurchaseAprPeriodType>months</introPurchaseAprPeriodType>
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>13.99% - 23.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>13.99% - 23.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>23.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>23.99%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SBb9b49c15400146d2a2bb2130063e0df3</productId>
+		<productDisplayName>Capital OneÂ® QuicksilverOneÂ® Cash Rewards Credit Card</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SBb9b49c15400146d2a2bb2130063e0df3&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fquicksilverone</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>QuicksilverOne</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-quicksilverone-generic-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Average</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Cash Back</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Fair</categoryTags>
+		<categoryTags>Gas</categoryTags>
+		<categoryTags>Limited/No History=only when Limited is mentioned</categoryTags>
+		<categoryTags>Mastercard</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rewards</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<marketingCopy>Earn unlimited 1.5% cash back on every purchase, every day</marketingCopy>
+		<marketingCopy>Use your QuicksilverOne card and get 50% back as a statement credit on your monthly Spotify Premium subscription, now through April 2018</marketingCopy>
+		<marketingCopy>No rotating categories or sign-ups needed to earn cash rewards; plus, cash back won't expire for the life of the account and there's no limit to how much you can earn</marketingCopy>
+		<marketingCopy>Get access to a higher credit line after making your first 5 monthly payments on time</marketingCopy>
+		<marketingCopy>Fraud coverage if your card is ever lost or stolen</marketingCopy>
+		<marketingCopy>Use online banking to access your account, even from your smartphone, with our mobile app</marketingCopy>
+		<marketingCopy>Help strengthen your credit for the future with responsible card use</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - You're covered by $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Emergency Card Services - If your credit card is lost or stolen, you can get an emergency card replacement and a cash advance</additionalMarketingCopy>
+		<additionalMarketingCopy>Extended Warranty - Automatically doubles the original manufacturer's/store's warranty on eligible purchases</additionalMarketingCopy>
+		<additionalMarketingCopy>MasterRentalÂ® Insurance - Use your card to rent an eligible vehicle and you're covered for collision, damage and loss</additionalMarketingCopy>
+		<additionalMarketingCopy>Master RoadAssistÂ® Service - Take advantage of 24 hour toll-free dispatch to help with services like towing, fuel delivery and more</additionalMarketingCopy>
+		<additionalMarketingCopy>Price Protection - If you find a lower price on a new item within 60 days of purchase you may be reimbursed for the difference</additionalMarketingCopy>
+		<additionalMarketingCopy>ID Theft Resolution Service - Available to help should you become the victim of Identity Theft</additionalMarketingCopy>
+		<processingNetwork>MastercardÂ®</processingNetwork>
+		<creditRating>Average</creditRating>
+		<creditRating>Fair</creditRating>
+		<creditRating>Limited</creditRating>
+		<activeFrom>2017-07-19T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>1.5</value>
+				<type>% Cash Back</type>
+				<terms>on every purchase, every day</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue />
+				<rewardsBonusType>Cash Back</rewardsBonusType>
+				<rewardsBonusTerms />
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>24.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>24.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>N/A</introPurchaseAprDescription>
+			<introPurchaseAprValue />
+			<introPurchaseAprType />
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>N/A</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue />
+			<introPurchaseAprPeriodType />
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>24.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>24.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$39</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>24.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>24.49%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SBd4acbacfd8f54a9ab6c3a1b5575fda25</productId>
+		<productDisplayName>Capital OneÂ® Platinum Credit Card</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SBd4acbacfd8f54a9ab6c3a1b5575fda25&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fplatinum</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>Platinum</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-blue-steel-mc-flat-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Average</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Fair</categoryTags>
+		<categoryTags>Limited/No History=only when Limited is mentioned</categoryTags>
+		<categoryTags>Mastercard</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<marketingCopy>Pay no annual fee</marketingCopy>
+		<marketingCopy>Get access to a higher credit line after making your first 5 monthly payments on time</marketingCopy>
+		<marketingCopy>Fraud coverage if your card is lost or stolen</marketingCopy>
+		<marketingCopy>Use online banking to access your account, even from your smartphone, with our mobile app</marketingCopy>
+		<marketingCopy>Pay by check, online or at a local branch, all with no fee - and pick the monthly due date that works best for you</marketingCopy>
+		<marketingCopy>Get access to your account 24 hours a day, 7 days a week</marketingCopy>
+		<marketingCopy>Help strengthen your credit for the future with responsible card use</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - You're covered by $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Emergency Card Services - If your credit card is lost or stolen, you can get an emergency card replacement and a cash advance</additionalMarketingCopy>
+		<additionalMarketingCopy>Extended Warranty - Automatically doubles the original manufacturer's/store's warranty on eligible purchases</additionalMarketingCopy>
+		<additionalMarketingCopy>MasterRentalÂ® Insurance - Use your card to rent an eligible vehicle and you're covered for collision, damage and loss</additionalMarketingCopy>
+		<additionalMarketingCopy>Master RoadAssistÂ® Service - Take advantage of 24 hour toll-free dispatch to help with services like towing, fuel delivery and more</additionalMarketingCopy>
+		<additionalMarketingCopy>Price Protection - If you find a lower price on a new item within 60 days of purchase you may be reimbursed for the difference</additionalMarketingCopy>
+		<additionalMarketingCopy>ID Theft Resolution Service - Available to help should you become the victim of Identity Theft</additionalMarketingCopy>
+		<processingNetwork>MastercardÂ®</processingNetwork>
+		<creditRating>Average</creditRating>
+		<creditRating>Fair</creditRating>
+		<creditRating>Limited</creditRating>
+		<activeFrom>2017-07-19T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsBonus>
+				<rewardsBonusValue />
+				<rewardsBonusType />
+				<rewardsBonusTerms />
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>24.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>24.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>N/A</introPurchaseAprDescription>
+			<introPurchaseAprValue />
+			<introPurchaseAprType />
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>N/A</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue />
+			<introPurchaseAprPeriodType />
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>24.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>24.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>24.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>24.49%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+	<products>
+		<productId>SBe96d53888fcd48d58e082726b9eddd9e</productId>
+		<productDisplayName>Capital OneÂ® Secured MastercardÂ®</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SBe96d53888fcd48d58e082726b9eddd9e&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fsecured-mastercard</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>Secured</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-blue-steel-mc-flat-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Bad Credit</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Limited or No Credit History=only when Limited is mentioned</categoryTags>
+		<categoryTags>Mastercard</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Rebuilding</categoryTags>
+		<categoryTags>Secured Card</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<marketingCopy>No annual fee, and all the credit building benefits with responsible card use</marketingCopy>
+		<marketingCopy>Unlike a prepaid card, it builds credit when used responsibly, with regular reporting to the 3 major credit bureaus</marketingCopy>
+		<marketingCopy>You will get an initial $200 credit line after making a security deposit of $49, $99, or $200, determined based on your creditworthiness</marketingCopy>
+		<marketingCopy>Get access to a higher credit line after making your first 5 monthly payments on time with no additional deposit needed</marketingCopy>
+		<marketingCopy>Easily manage your account 24/7 with online access, by phone or using our mobile app</marketingCopy>
+		<marketingCopy>It's a credit card accepted at millions of locations worldwide</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - You're covered by $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Travel & Emergency Assistance - Available 24/7 to help connect you with local emergency and assistance resources when you're away from home</additionalMarketingCopy>
+		<additionalMarketingCopy>Emergency Card Services - If your credit card is lost or stolen, you can get an emergency card replacement and a cash advance</additionalMarketingCopy>
+		<additionalMarketingCopy>Extended Warranty - Automatically doubles the original manufacturer's/store's warranty on eligible purchases</additionalMarketingCopy>
+		<additionalMarketingCopy>MasterRentalÂ® Insurance - Use your card to rent an eligible vehicle and you're covered for collision, damage and loss</additionalMarketingCopy>
+		<additionalMarketingCopy>Master RoadAssistÂ® Service - Take advantage of 24 hour toll-free dispatch to help with services like towing, fuel delivery and more</additionalMarketingCopy>
+		<additionalMarketingCopy>Price Protection - If you find a lower price on a new item within 60 days of purchase you may be reimbursed for the difference</additionalMarketingCopy>
+		<additionalMarketingCopy>ID Theft Resolution Service - Available to help should you become the victim of Identity Theft</additionalMarketingCopy>
+		<processingNetwork>MastercardÂ®</processingNetwork>
+		<creditRating>Limited</creditRating>
+		<creditRating>Bad</creditRating>
+		<activeFrom>2017-07-19T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsBonus>
+				<rewardsBonusValue />
+				<rewardsBonusType />
+				<rewardsBonusTerms />
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>24.99% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>24.99%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>N/A</introPurchaseAprDescription>
+			<introPurchaseAprValue />
+			<introPurchaseAprType />
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>N/A</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue />
+			<introPurchaseAprPeriodType />
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>24.99% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>24.99%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>24.99% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>24.49%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>$49, $99 or $200</minimumDeposit>
+	</products>
+	<products>
+		<productId>SBf9122b5625264cd5a78a4f924de60a24</productId>
+		<productDisplayName>Capital OneÂ® Premier Dining Rewards Credit Card</productDisplayName>
+		<applyNowLink>https://goto.capitalone.com/c/mpid/344893/5048?prodsku=SBf9122b5625264cd5a78a4f924de60a24&p.prodline=USCIR&p.lid=L&u=https%3A%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fpremier-dining-rewards</applyNowLink>
+		<productType>ConsumerCard</productType>
+		<brandName>PremierDiningRewards</brandName>
+		<images>
+			<imageType>CardArt</imageType>
+			<height>315</height>
+			<width>500</width>
+			<alternateText />
+			<url>https://www.capitalone.com/assets/affiliates/card_art/affiliates-blue-steel-worldelite-500x315.png</url>
+		</images>
+		<categoryTags>Apple Pay</categoryTags>
+		<categoryTags>Best Offers</categoryTags>
+		<categoryTags>Capital One</categoryTags>
+		<categoryTags>Chip</categoryTags>
+		<categoryTags>Chip & Signature</categoryTags>
+		<categoryTags>Early Spend Bonus</categoryTags>
+		<categoryTags>EMV</categoryTags>
+		<categoryTags>Excellent</categoryTags>
+		<categoryTags>Good</categoryTags>
+		<categoryTags>Groceries</categoryTags>
+		<categoryTags>Mastercard</categoryTags>
+		<categoryTags>No Annual Fee</categoryTags>
+		<categoryTags>No Foreign Transaction Fees</categoryTags>
+		<categoryTags>Points Rewards</categoryTags>
+		<categoryTags>Restaurant/Dining</categoryTags>
+		<categoryTags>Rewards-Cash</categoryTags>
+		<categoryTags>Smart Chip</categoryTags>
+		<marketingCopy>One-time $100 cash bonus after you spend $500 on purchases within 3 months from account opening</marketingCopy>
+		<marketingCopy>Earn unlimited 3% cash back on dining, 2% on groceries and 1% on all other purchases</marketingCopy>
+		<marketingCopy>No rotating categories or sign-ups needed to earn cash rewards; plus, cash back won't expire for the life of the account and there's no limit to how much you can earn</marketingCopy>
+		<marketingCopy>No annual fee</marketingCopy>
+		<marketingCopy>No foreign transaction fees</marketingCopy>
+		<additionalMarketingCopy>Fraud Coverage - You're covered by $0 Fraud Liability if your card is ever lost or stolen</additionalMarketingCopy>
+		<additionalMarketingCopy>Complimentary concierge service - Enjoy assistance 24 hours a day, from home and when you travel</additionalMarketingCopy>
+		<additionalMarketingCopy>Emergency Card Services - If your credit card is lost or stolen, you can get an emergency card replacement and a cash advance with MastercardÂ® Global Service</additionalMarketingCopy>
+		<additionalMarketingCopy>Extended Warranty - Automatically doubles the original manufacturer's/store's warranty on eligible purchases</additionalMarketingCopy>
+		<additionalMarketingCopy>MasterRentalÂ® Insurance - Use your card to rent an eligible vehicle and you're covered for collision, damage and loss</additionalMarketingCopy>
+		<additionalMarketingCopy>Master RoadAssistÂ® Service - Take advantage of 24-hour toll-free dispatch to help with services like towing, fuel delivery and more (fees may apply)</additionalMarketingCopy>
+		<additionalMarketingCopy>Price Protection - If you find a lower price on a new item within 120 days of purchase you may be reimbursed for the difference</additionalMarketingCopy>
+		<additionalMarketingCopy>ID Theft Resolution Service - Available to help should you become the victim of Identity Theft</additionalMarketingCopy>
+		<processingNetwork>MastercardÂ®</processingNetwork>
+		<creditRating>Excellent</creditRating>
+		<creditRating>Good</creditRating>
+		<activeFrom>2017-08-15T00:00:00Z</activeFrom>
+		<rewards>
+			<rewardsTiers>
+				<tier>1</tier>
+				<value>3</value>
+				<type>% Cash Back</type>
+				<terms>on dining</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>2</tier>
+				<value>2</value>
+				<type>% Cash Back</type>
+				<terms>on groceries</terms>
+			</rewardsTiers>
+			<rewardsTiers>
+				<tier>3</tier>
+				<value>1</value>
+				<type>% Cash Back</type>
+				<terms>on all other purchases</terms>
+			</rewardsTiers>
+			<rewardsBonus>
+				<rewardsBonusValue>100</rewardsBonusValue>
+				<rewardsBonusType>Cash Back</rewardsBonusType>
+				<rewardsBonusTerms>after you spend $500 on purchases within 3 months from account opening</rewardsBonusTerms>
+			</rewardsBonus>
+		</rewards>
+		<primaryBenefitDescription />
+		<balanceTransfer>
+			<balanceTransferFeeDescription>$0</balanceTransferFeeDescription>
+			<balanceTransferFeeValue>0</balanceTransferFeeValue>
+			<balanceTransferFeeType>$</balanceTransferFeeType>
+		</balanceTransfer>
+		<introBalanceTransferApr>
+			<introBalanceTransferAprDescription>N/A</introBalanceTransferAprDescription>
+			<introBalanceTransferAprValue />
+			<introBalanceTransferAprType />
+		</introBalanceTransferApr>
+		<introBalanceTransferAprPeriod>
+			<introBalanceTransferAprPeriodDescription>N/A</introBalanceTransferAprPeriodDescription>
+			<introBalanceTransferAprPeriodValue />
+			<introBalanceTransferAprPeriodType />
+		</introBalanceTransferAprPeriod>
+		<balanceTransferApr>
+			<balanceTransferAprDescription>15.49% - 24.49% (Variable)</balanceTransferAprDescription>
+			<balanceTransferAprValue>15.49% - 24.49%</balanceTransferAprValue>
+			<balanceTransferAprType>Variable</balanceTransferAprType>
+		</balanceTransferApr>
+		<balanceTransferGracePeriod>
+			<balanceTransferGracePeriodDescription>0 days</balanceTransferGracePeriodDescription>
+			<balanceTransferGracePeriodValue>0</balanceTransferGracePeriodValue>
+			<balanceTransferGracePeriodType>days</balanceTransferGracePeriodType>
+		</balanceTransferGracePeriod>
+		<introPurchaseApr>
+			<introPurchaseAprDescription>N/A</introPurchaseAprDescription>
+			<introPurchaseAprValue />
+			<introPurchaseAprType />
+		</introPurchaseApr>
+		<introPurchaseAprPeriod>
+			<introPurchaseAprPeriodDescription>N/A</introPurchaseAprPeriodDescription>
+			<introPurchaseAprPeriodValue />
+			<introPurchaseAprPeriodType />
+		</introPurchaseAprPeriod>
+		<purchaseApr>
+			<purchaseAprDescription>15.49% - 24.49% (Variable)</purchaseAprDescription>
+			<purchaseAprValue>15.49% - 24.49%</purchaseAprValue>
+			<purchaseAprType>Variable</purchaseAprType>
+		</purchaseApr>
+		<purchaseGracePeriod>
+			<purchaseGracePeriodDescription>25 days</purchaseGracePeriodDescription>
+			<purchaseGracePeriodValue>25</purchaseGracePeriodValue>
+			<purchaseGracePeriodType>days</purchaseGracePeriodType>
+		</purchaseGracePeriod>
+		<annualMembershipFee>$0</annualMembershipFee>
+		<foreignTransactionFee>
+			<foreignTransactionFeeDescription>None</foreignTransactionFeeDescription>
+			<foreignTransactionFeeValue />
+			<foreignTransactionFeeType />
+		</foreignTransactionFee>
+		<fraudCoverage>You're covered by $0 Fraud Liability if your card is ever lost or stolen</fraudCoverage>
+		<latePaymentFee>
+			<latePaymentFeeDescription>Up to $35</latePaymentFeeDescription>
+			<latePaymentFeeValue>35</latePaymentFeeValue>
+			<latePaymentFeeType>$</latePaymentFeeType>
+		</latePaymentFee>
+		<penaltyApr>
+			<penaltyAprDescription>None</penaltyAprDescription>
+			<penaltyAprValue />
+			<penaltyAprType />
+		</penaltyApr>
+		<cashAdvanceFee>3% of the amount of the cash advance, but not less than $10</cashAdvanceFee>
+		<cashAdvanceApr>
+			<cashAdvanceAprDescription>24.49% (Variable)</cashAdvanceAprDescription>
+			<cashAdvanceAprValue>24.49%</cashAdvanceAprValue>
+			<cashAdvanceAprType>Variable</cashAdvanceAprType>
+		</cashAdvanceApr>
+		<cashAdvanceGracePeriod>
+			<cashAdvanceGracePeriodDescription>0 days</cashAdvanceGracePeriodDescription>
+			<cashAdvanceGracePeriodValue>0</cashAdvanceGracePeriodValue>
+			<cashAdvanceGracePeriodType>days</cashAdvanceGracePeriodType>
+		</cashAdvanceGracePeriod>
+		<generalDescription />
+		<promotionalCopy />
+		<overLimitFee>
+			<overLimitFeeDescription>None</overLimitFeeDescription>
+			<overLimitFeeValue />
+			<overLimitFeeType />
+		</overLimitFee>
+		<minimumDeposit>N/A</minimumDeposit>
+	</products>
+</root>
